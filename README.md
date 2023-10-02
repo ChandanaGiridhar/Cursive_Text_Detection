@@ -34,3 +34,9 @@ The trained model is evaluated on multiple graphic text translation pictures and
 ## Conclusion ##
 
 We utilized YOLOv5, an efficient object detection algorithm, for text localization and script recognition in natural scene photos using the DarkNet53 Architecture. Despite photo complexity and nuances in Kannada, Hindi, English, and Chinese characters, including cursive text, our model accurately detects text and identifies scripts. We rigorously tested the model in challenging scenarios like varied backgrounds, orientations, fonts, resolutions, and lighting conditions, and further improved its accuracy through hyperparameter tuning. With an expanded dataset and parameter adjustments, our model achieves 95%-99% overall accuracy. However, there's room for improvement in text detection and script recognition, vital for applications like text extraction and translation, benefiting tourists and the visually impaired.
+
+## Links ##
+
+Cursive & Mixed Dataset - [Click Here](https://drive.google.com/drive/folders/1braj6RrGmITpJwGOePEMT8wOXrgxkt6t?usp=drive_link)
+
+Trained YOLOv5 - [Click Here](https://drive.google.com/drive/folders/1EtFsXtgaWZvxMbRKA2sulVyMjIHEIJb3?usp=drive_link)
